@@ -2,7 +2,7 @@
 Experiments on vector databases with LLMs
 
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
 
